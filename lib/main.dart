@@ -102,10 +102,6 @@ class _MyHomePageState extends State<MyHomePage> {
                     image: AssetImage('assets/logo.png'),
                     fit: BoxFit.contain,
                   ),
-//                  child: Image.asset(
-//                    "assets/logo.png",
-//                    fit: BoxFit.contain,
-//                  ),
                 ),
                 SizedBox(height: 45.0),
                 emailField,
